@@ -10,7 +10,10 @@ PyQt5 bisa diinstall di beragam platform (Windows,Linux/Mac, Android, dsb) denga
 ### Instalasi di Windows
 Cara instalasi yang paling mudah adalah memanfaatkan pip (baik untuk Python yang diinstall secara native maupun Anaconda):
 `pip install PyQt5`
-Jika Python diinstall menggunakan Anaconda versi terbaru (misal Anaconda3-2020.11), maka _by default_ PyQt akan sudah terpasang dan siap digunakan. Dalam tutorial ini, akan digunakan PyQt yang sudah tersedia di dalam Anaconda tersebut.
+
+Jika Python diinstall menggunakan Anaconda versi terbaru (misal Anaconda3-2020.11), maka _by default_ PyQt akan sudah terpasang dan siap digunakan. Dalam tutorial ini, akan digunakan PyQt yang sudah tersedia di dalam Anaconda tersebut. _Screenshot_ berikut menunjukkan bahwa PyQt sudah ter-install bersama-sama dengan Anaconda dan siap digunakan.
+
+![Anaconda Navigator](Anaconda-nav.png)
 
 
 ### Instalasi di Linux
