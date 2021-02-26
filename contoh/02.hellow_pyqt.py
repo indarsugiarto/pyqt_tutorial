@@ -1,6 +1,5 @@
 import sys
-from PyQt5.QtWidgets import QMessageBox, QDialog, QApplication, QVBoxLayout, QPushButton
-from PyQt5.QtWidgets import QWidget
+from PyQt5.QtWidgets import QMessageBox, QDialog, QApplication, QVBoxLayout, QPushButton, QWidget
 
 """ Variasi hello world dengan PyQt """
 
