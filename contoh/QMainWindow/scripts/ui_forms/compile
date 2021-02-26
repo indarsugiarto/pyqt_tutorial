@@ -1,0 +1,6 @@
+#!/bin/bash
+pyrcc5 -o form_src_rc.py form_src.qrc 
+pyuic5 --import-from=. -o _mainWindow.py mainWindow.ui
+pyuic5 --import-from=. -o _monitor.py monitor.ui
+pyuic5 --import-from=. -o _about.py about.ui
+

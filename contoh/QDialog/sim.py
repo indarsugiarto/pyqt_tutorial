@@ -3,7 +3,7 @@
 """
 Created on Fri Feb 26 13:07:38 2021
 
-@author: indi
+@author: indi@petra.ac.id
 """
 from sklearn.neural_network import MLPRegressor  
 import numpy as np

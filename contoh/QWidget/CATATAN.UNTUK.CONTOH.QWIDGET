@@ -1,0 +1,5 @@
+Dalam contoh ini, digunakan:
+- Bekerja dengan UI designer 
+- Memanfaatkan modul uic untuk mengakses langsung file .ui
+- Bekerja dengan QTimer dan tampilan LCD
+
