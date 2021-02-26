@@ -1,0 +1,6 @@
+Dalam contoh ini, digunakan:
+- Bekerja dengan standard QDialog untuk file maupun widget
+- File .ui di-compile menjadi .py
+- Bekerja dengan MLP dari sk-learn
+- Bekerja dengan matplotlib
+
