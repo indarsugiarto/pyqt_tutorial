@@ -1,0 +1,4 @@
+Selain itu, mungkin perlu penyesuaian pyglet supaya tidak menyalakan mp3 melainkan wav (kasus di laptop yang tidak support decoder mp3 dari pyglet)
+
+Juga sesuaikan konten yang mengandung icon/date_range-24px.svg
+
